@@ -1,0 +1,3 @@
+name=”¼‰¹ã‚°ƒvƒ‰ƒOƒCƒ“(Python 2.7.x)
+execute=notenum_inc_plugin.py
+shell=use
